@@ -2,11 +2,9 @@
 Приложение МКА тепломассопереноса
 
 Для запуска:
-
-cd testapp
-
+npm install -g electron-forge // 1 раз
 npm i
-
 npm start
 
+Для упаковки:
 npm run package
