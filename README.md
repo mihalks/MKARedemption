@@ -3,7 +3,7 @@
 
 Для запуска:
 
-cd simple-desktop-app-electronjs
+cd testapp
 
 npm i
 
