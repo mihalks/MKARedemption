@@ -7,4 +7,5 @@ npm i
 npm start
 
 Для упаковки:
+
 npm run package
